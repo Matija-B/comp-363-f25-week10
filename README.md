@@ -2,7 +2,6 @@
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
-Please do not modify the contents in folder `.devcontainer` and in file `requirements.txt`.
 
 ## How to work on this assigment
 
